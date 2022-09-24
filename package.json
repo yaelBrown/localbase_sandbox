@@ -1,0 +1,24 @@
+{
+  "name": "localbase_sandbox",
+  "version": "1.0.0",
+  "description": "Sandbox for Localbase framework for working with indexeddb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaelBrown/localbase_sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaelBrown/localbase_sandbox/issues"
+  },
+  "homepage": "https://github.com/yaelBrown/localbase_sandbox#readme",
+  "dependencies": {
+    "localbase": "^0.7.5"
+  }
+}
